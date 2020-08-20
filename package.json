@@ -1,0 +1,24 @@
+{
+  "name": "electron-exemplo-tutorialspoint",
+  "version": "1.0.0",
+  "description": "tutorialspoint electron tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RChamyGit/electron-exemplo-tutorialspoint.git"
+  },
+  "author": "Ricardo Chamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RChamyGit/electron-exemplo-tutorialspoint/issues"
+  },
+  "homepage": "https://github.com/RChamyGit/electron-exemplo-tutorialspoint#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}
